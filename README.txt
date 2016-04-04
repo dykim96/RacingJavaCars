@@ -6,6 +6,10 @@ GitURL: https://github.com/dykim96/WordLadder.git
 
 Main method: JavaCars.java
 
+Extra Note: to run JavaCars.html following things must be in the same directory:
+	JavaCars.jar
+	bin folder including .class files.
+
 Additional Features:
 	- Added Pause Button
 	- Added Reset Button

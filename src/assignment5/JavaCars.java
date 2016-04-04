@@ -179,7 +179,7 @@ public class JavaCars extends Applet implements ActionListener, Runnable{
     	g.fillRect(0, 0, d.width, d.height);
     	g.setColor(Color.BLACK);
     	System.out.println("Paint");
-    	//redraw the button only when 
+    	//redraw the button only when button or screen has been updated
     	if(!buttonUpdated || !d.equals(windowSize)){
     		this.startButton.setLocation(0,151);
     		this.startButton.setSize(50, 30);
