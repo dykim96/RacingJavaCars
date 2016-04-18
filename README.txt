@@ -4,7 +4,7 @@ EID: dk24338
 
 GitURL: https://github.com/dykim96/WordLadder.git
 
-Main method: JavaCars.java
+Main class that extends Applet: JavaCars.java
 
 Extra Note: to run JavaCars.html following things must be in the same directory:
 	JavaCars.jar
